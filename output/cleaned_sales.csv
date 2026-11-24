@@ -1,0 +1,16 @@
+Product,Category,Units_Sold,Unit_Price,Revenue,Region
+Laptop,Electronics,12,55000,660000,North
+Mobile,Electronics,25,18000,450000,South
+Chair,Furniture,30,2500,75000,East
+Table,Furniture,15,5000,75000,West
+Headphones,Accessories,40,1200,48000,South
+Keyboard,Accessories,35,900,31500,North
+Monitor,Electronics,18,12000,216000,East
+Desk,Furniture,10,7500,75000,West
+Mouse,Accessories,50,500,25000,South
+Printer,Electronics,8,15000,120000,North
+Sofa,Furniture,5,22000,110000,East
+Smartwatch,Electronics,20,6500,130000,West
+Webcam,Accessories,22,1800,39600,North
+Bookshelf,Furniture,7,8500,59500,South
+Tablet,Electronics,14,22000,308000,East
